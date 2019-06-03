@@ -16,7 +16,6 @@ marquee{
 }
 
 .Find{
-    padding-left: 1700px;
     border: 0.5;
     font-family: 'Playfair Display', serif;
 }
@@ -34,4 +33,7 @@ marquee{
 
 .HisMess{
     font-size: 30px;
+}
+td{
+    padding: 15px;
 }
