@@ -1,0 +1,10 @@
+body{
+    background-color:silver;
+    background-image: url("BG.jpg");
+    font-family: 'Playfair Display', serif;
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+
+}
