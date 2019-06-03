@@ -8,3 +8,30 @@ body{
     
 
 }
+
+
+marquee{
+    text-align: center;
+    padding-top: 150px;
+}
+
+.Find{
+    padding-left: 1700px;
+    border: 0.5;
+    font-family: 'Playfair Display', serif;
+}
+
+.Back{
+    padding-top: 50px;
+    padding-left: 50px;
+    text-decoration: underline;
+}
+
+.backicon{
+    padding-left: 25px;
+    
+}
+
+.HisMess{
+    font-size: 30px;
+}
